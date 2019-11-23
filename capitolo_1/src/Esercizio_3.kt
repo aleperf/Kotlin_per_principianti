@@ -1,4 +1,3 @@
-
 /* TODO : I ritorno a capo possono essere inserit anche direttamente nelle stringhe aggiungendo la sequenza "\n"
 nei punti in cui vogliamo un ritorno a capo, in questo modo anche usando print()
 sarà possibile mandare a capo le frasi.
@@ -19,6 +18,6 @@ Kotlin.
 
 * */
 
-fun main(){
+fun main() {
     print("Le rose sono rosse\nle viole sono blu\nprogrammare è divertente,\npuoi farlo anche tu!")
 }
