@@ -19,7 +19,7 @@ questa serie di tutorial vuole essere sia una introduzione a Kotlin che alla pro
   
   ## Capitolo 2: Operazioni Matematiche e Comparazioni
 
-[Qui il link per il tutorial]()
+[Qui il link per il tutorial](https://foofologia.wordpress.com/2019/12/06/kotlin-tutorial-capitolo-2-operazioni-matematiche-e-comparazioni/)
 <br>
 <ul>
   <li>Esecuzione al volo: Scratches e REPL</li>
